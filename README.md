@@ -237,4 +237,4 @@ This repository serves as the official landing page for HeadMouse. The software 
 **Get the most recent version of HeadMouse today!**
 
 ---
-**Last updated:** 2026-09-16 21:53:24 UTC
+**Last updated:** 2026-09-17 00:07:04 UTC
